@@ -1,0 +1,6 @@
+{
+  "name": "Simple Tax Estimator",
+  "description": "A multi-step application to estimate your annual federal taxes. Input your situation, income, deductions, and credits, and the Gemini API will provide a detailed tax calculation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
